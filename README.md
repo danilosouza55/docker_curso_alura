@@ -1,4 +1,4 @@
-# Contrução de imagem docker baseado no Node
+# Construção de imagem docker baseado no Node
 
 ## Build da imagem
 `docker build . -t xxxx/xxx:1.0`
